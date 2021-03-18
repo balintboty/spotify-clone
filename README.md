@@ -1,4 +1,5 @@
-spotify-clone with lyrics
+#spotify-clone with lyrics
+
 Needs a working Spotify Premium account so one can play music in the app.
 
 Head to https://developer.spotify.com/dashboard/ => Login with your account and create a new app

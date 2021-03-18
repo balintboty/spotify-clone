@@ -1,4 +1,4 @@
-#spotify-clone with lyrics
+## spotify-clone with lyrics
 
 Needs a working Spotify Premium account so one can play music in the app.
 
